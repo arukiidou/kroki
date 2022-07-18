@@ -1,0 +1,4 @@
+resources:
+  - k8s/kroki-deployment.yaml
+  - k8s/kroki-ingress.yaml
+  - k8s/kroki-service.yaml
